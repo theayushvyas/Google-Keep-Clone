@@ -51,6 +51,12 @@ span{
 
 }
 
+.clock{
+	color: #0000ff;
+	padding: 200px;
+	margin-left: 80px;
+}
+
 footer{
 	width: 100%;
 	bottom:0;
